@@ -1,3 +1,12 @@
+## AtliQ Hardware: Advanced Excel Analytics for Business Insights
+
+### Project Description:
+AtliQ Hardware, a prominent consumer electronics company, is striving to sharpen its competitive edge by transforming raw data into actionable business insights. In this project, we've leveraged the power of Excel to perform an extensive analysis of AtliQ Hardware's sales, finance, and market data. By using advanced Excel functions such as VLOOKUP, XLOOKUP, Index Matching, Power Query, and Data Modeling, we created multiple insightful reports that aid in strategic decision-making across the company.
+
+The dataset includes key dimensions such as dim_product, dim_customer, dim_market, and dim_date, as well as critical financial metrics like Cogs, Freight cost, Targets, and Fact_actual_estimates. Our analysis produced vital reports including the Customer Net Sales Report, Top and Bottom 5 Products, P&L FY, Top 5 Countries, Division Level Report, New Products Launched in 2021, GM % by Quarter, and Market Performance vs. Target.
+
+These reports provide AtliQ Hardware with a comprehensive view of their performance across various domains, enabling them to optimize operations, identify trends, and capitalize on market opportunities. The insights generated from these Excel reports are designed to support the company in making informed decisions, thereby driving growth and enhancing their market position.
+
 ## Sales Report :
 
 - **Project objective:** 
@@ -56,3 +65,18 @@
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
 - [x]	Developing a systematic approach to devising a report building plan.
+
+
+
+### Features:
+- [x] Customer Net Sales Report: Tracks net sales by customer, helping to identify key accounts and sales performance.
+- [x] Top and Bottom 5 Products: Highlights the best and worst-performing products, offering insights into product strategy.
+- [x] P&L FY and Fiscal Month Reports: Provides a detailed view of profit and loss across the fiscal year and by month.
+- [x] Division Level Report: Breaks down performance by division, allowing for targeted improvements.
+- [x] New Products Launched in 2021: Analyzes the performance of newly launched products, identifying success factors.
+- [x] GM % by Quarter: Tracks gross margin percentage on a quarterly basis, aiding in financial analysis.
+- [x] Market Performance vs. Target: Compares actual performance against targets, highlighting areas of strength and improvement.
+
+
+### Conclusion:
+This project showcases the transformation of raw data into meaningful insights using the advanced capabilities of Excel. By creating detailed reports and analysis, AtliQ Hardware can now leverage data-driven strategies to enhance their business performance and maintain a competitive edge in the market.
